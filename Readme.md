@@ -1,0 +1,2 @@
+Mari_Time is a Power BI dashboard designed to monitor and visualize global marine vessel activity, with a focus on detecting suspicious and violation-prone behavior.
+The project leverages maritime telemetry data to identify vessel gaps, disabling events, and potential illegal fishing activities, empowering marine authorities and researchers to take informed action.
